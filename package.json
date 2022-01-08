@@ -1,0 +1,28 @@
+{
+  "name": "proreadmegenerator",
+  "version": "1.0.0",
+  "description": "## Licensing:   [![license](https://img.shields.io/badge/license--blue)](https://shields.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulThomasWI/potential-enigma.git"
+  },
+  "keywords": [
+    "Readme",
+    "Generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/PaulThomasWI/potential-enigma/issues"
+  },
+  "homepage": "https://github.com/PaulThomasWI/potential-enigma#readme"
+}
